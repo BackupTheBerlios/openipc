@@ -1,0 +1,8 @@
+Este es el directorio de documentación.
+
+Los .dia pueden ser abiertos con el programa DIA (funciona tanto en windows
+con en linux).
+
+Los .txt con cualquier procesador de texto que abra bien los ficheros
+codificados en latin1 con CR (no CR+LF).
+

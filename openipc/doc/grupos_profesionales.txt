@@ -1,0 +1,46 @@
+Códigos de ocupaciones
+
+1. Agricultura, ganadería, pesca y montes
+11. Empresarios agrarios (o similares) con asalariados.
+12. Empresarios agrarios (o similares) sin asalariados y miembros de cooperativas.
+13. Resto de trabajadores agrarios o similares.
+
+2. Empresarios (no incluídos en el apartado anterior)
+21. Empresarios con 10 o más asalariados
+22. EMpresarios con menos de 10 asalariados
+23. Empresarios sin asalariados y miembreos de cooperativas
+
+3. Empleados en trabajos administrativos, comerciales y similares (no funcionarios)
+31. Directores Generales de grandes empresas y alto personal directivo
+32. Jefes de departamentos administrativos, comerciales
+33. Resto de personal administrativo y comercial
+
+4. Técnicos Profesionales (trabajadores por cuenta ajena)
+41. Profesionales y alto personal técnico (Arquitectos, Economistas, Ingenieros, Médicos...)
+42. Profesionales y técnicos medios (Peritos, Maestros, Enfermeras...)
+
+5. Resto de trabajadores
+51. Contramaestres y capataces
+52. Obreros cualificados y especializados
+53. Resto de obreros de servicios (transporte, hostelería)
+54. Obreros sin especialización
+
+6. Funcionarios y contratados de la administración
+61. Alto cargo y cuerpos especiales de la Administración Pública (Directores Generales, Abogados del Estado, Jueces, Registradores...)
+62. Funcionarios con titulaciónes superiores y medias
+63. Resto de personal de las administraciones
+
+7. Autónomos y profesionales liberales (trabajando por cuenta propia con o sin asalariados)
+71. Profesionales liberales (Dentista, Notario, Comisionista...)
+72. Trabajador independiente (Electricista, Artesano, Modista, Fontanero...)
+
+8. Fuerzas Armadas
+81. Generales, Jefes y Oficiales de las Fuerzas Armadas
+82. Suboficiales, Número Guardia Civil, Policia Nacional y Municipal
+
+9. Otras situaciones
+91. Trabajos esporádicos propios de estudiantes (cuidar niños, dar clases, acompañantes).
+92. Amas de casa
+93. Desarrollador de Proyectos Libres ;-)
+98. En situación de desempleo
+97. Pensionistas por cualquier concepto (jubilación, invalidez, viudedad, etc.).
